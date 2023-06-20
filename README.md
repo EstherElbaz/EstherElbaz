@@ -1,22 +1,12 @@
 - 👋 Hi, I’m @EstherElbaz
+
+- Hi everybody!
+- I'm Esther, FullStuck developper. 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Languages
-Python JavaScript Java Clojure C++ C Bash SQL
-
-ML/DL
-Pandas NumPy MLFlow Scikit-Learn PyTorch SciPy Matplotlib
-
-Technologies & Frameworks
-Django React HTML5 CSS3 Docker
-
-OS
-Linux Windows FreeBSD
-
-פרטים
 
 
 <!---
