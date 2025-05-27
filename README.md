@@ -61,7 +61,6 @@ Includes:
 I’m actively looking for opportunities as a full stack developer – especially in teams that value autonomy, creativity, and growth.
 
 📬 Reach me at: str81584@gmail.com  
-Or connect via LinkedIn (happy to send the link on request 😊)
  https://www.linkedin.com/in/esther-ovadia
 ---
 
