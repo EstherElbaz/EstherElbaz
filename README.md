@@ -60,8 +60,9 @@ Includes:
 ## 🤝 Let’s Connect
 I’m actively looking for opportunities as a full stack developer – especially in teams that value autonomy, creativity, and growth.
 
-📬 Reach me at: str81584@gmail.com  
- https://www.linkedin.com/in/esther-ovadia
+ Reach me at:
+** str81584@gmail.com  
+ https://www.linkedin.com/in/esther-ovadia**
 ---
 
 Thanks for visiting my profile! Feel free to explore the code, reach out, or just say hi 🌟
